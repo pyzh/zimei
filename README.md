@@ -55,4 +55,6 @@ npm run build
 
 1. 根据`./docs/.vuepress/config.js`里面的相应的配置,复制修改即可
 
+## LICENSE
+
 Copyright © 2018-Present 文学编程设计
