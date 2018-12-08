@@ -38,7 +38,7 @@ function 砍(aim){
 // 结果 : 古添乐 的 血量 现在是5
 ```
 
-## 运行示例
+## js运行示例
 ![default](https://user-images.githubusercontent.com/31165554/49651570-8cc50680-fa6a-11e8-9d65-41d04dd12307.png)
 
 ## 基础
