@@ -1,13 +1,15 @@
 {
   "name": "new",
   "version": "1.0.0",
-  "description": "个人网站",
+  "description": "紫妹语言概念",
   "directories": {
-    "doc": "docs"
+    "doc": "紫妹语言概念"
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "编写": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "构建": "vuepress build docs"
   },
   "author": "",
   "license": "MIT",

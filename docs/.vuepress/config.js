@@ -1,6 +1,6 @@
 module.exports = {
   // 默认标题，会被地区标题覆盖
-  title: "文学编程设计",
+  title: "紫妹语言概念",
   // 默认描述，会被地区描述覆盖
   description: "一颗满怀期待的种子",
   base: "/",
@@ -50,28 +50,28 @@ module.exports = {
         link: "/"
       },
       {
-        text: "程序设计基础",
+        text: "紫妹概念",
         link: "/basic/"
       },
-      {
-        text: "中文Ecmascript",
-        link: "/Ecmascript/"
-      },
-      {
-        text: "中文Python",
-        link: "/Python/"
-      },
-      {
-        text: "中文C#",
-        link: "/CSharp/"
-      },
-      {
-        text: "中文C/C++",
-        link: "/CPlusPlus/"
-      },
+      // {
+      //   text: "中文Ecmascript",
+      //   link: "/Ecmascript/"
+      // },
+      // {
+      //   text: "中文Python",
+      //   link: "/Python/"
+      // },
+      // {
+      //   text: "中文C#",
+      //   link: "/CSharp/"
+      // },
+      // {
+      //   text: "中文C/C++",
+      //   link: "/CPlusPlus/"
+      // },
       {
         text: "Github",
-        link: "https://github.com/program-in-chinese"
+        link: "https://github.com/program-in-chinese/zimei"
       },
       {
         text: "关于",
@@ -81,31 +81,31 @@ module.exports = {
     sidebar: {
       "/": [
         {
-          title: "程序设计基础",
+          title: "紫妹概念",
           collapsable: false,
           children: ["/basic/"]
-        },
-        {
-          title: "中文Ecmascript",
-          collapsable: false,
-          children: ["/Ecmascript/"]
-        },
-
-        {
-          title: "中文Python",
-          collapsable: false,
-          children: ["/Python/"]
-        },
-        {
-          title: "中文C#",
-          collapsable: false,
-          children: ["/CSharp/"]
-        },
-        {
-          title: "中文C/C++",
-          collapsable: false,
-          children: ["/CPlusPlus/"]
         }
+        // {
+        //   title: "中文Ecmascript",
+        //   collapsable: false,
+        //   children: ["/Ecmascript/"]
+        // },
+
+        // {
+        //   title: "中文Python",
+        //   collapsable: false,
+        //   children: ["/Python/"]
+        // },
+        // {
+        //   title: "中文C#",
+        //   collapsable: false,
+        //   children: ["/CSharp/"]
+        // },
+        // {
+        //   title: "中文C/C++",
+        //   collapsable: false,
+        //   children: ["/CPlusPlus/"]
+        // }
       ]
     }
   }
