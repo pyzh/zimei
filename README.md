@@ -1,6 +1,6 @@
 # 紫妹
 
-## 看起来像这样
+## 简单的就像写故事
 
 ```
 事物 渣渣辉
@@ -19,7 +19,7 @@
 
 ```
 
-等价于,js语句
+等价于,js 语句
 
 ```
 let 渣渣辉={}
@@ -38,7 +38,8 @@ function 砍(aim){
 // 结果 : 古添乐 的 血量 现在是5
 ```
 
-## js运行示例
+## js 运行示例
+
 ![default](https://user-images.githubusercontent.com/31165554/49651570-8cc50680-fa6a-11e8-9d65-41d04dd12307.png)
 
 ## 基础
@@ -67,12 +68,16 @@ npm install
 
 ```bash
 npm run dev
+或
+npm run 编写
 ```
 
 5. 发布
 
 ```bash
 npm run build
+或
+npm run 构建
 ```
 
 6. 部署
@@ -100,4 +105,4 @@ npm run build
 
 ## LICENSE
 
-Copyright © 2018-Present 文学编程设计
+Copyleft © 2018-Present
